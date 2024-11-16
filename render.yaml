@@ -2,7 +2,7 @@ services:
 - type: web
   name: namviek-be
   runtime: node
-  repo: https://github.com/hudy9x/namviek
+  repo: https://github.com/Kevin/namviek
   plan: free
   envVars:
   - key: REDIS_HOST

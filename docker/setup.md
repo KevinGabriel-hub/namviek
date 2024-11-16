@@ -12,7 +12,7 @@ Before proceeding, make sure you have docker and docker-compose installed, the r
 1. Clone the repository and go to the folder.
 
    ```bash
-   git clone git@github.com:hudy9x/namviek.git
+   git clone git@github.com:Kevin/namviek.git
    cd namviek
    ```
 
